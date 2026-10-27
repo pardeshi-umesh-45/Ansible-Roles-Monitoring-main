@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Ansible Monitoring Stack
 
 Production-ready Ansible project to deploy:
@@ -203,3 +204,6 @@ Perfect for:
 # 🎯 Resume Point
 
 "Implemented centralized monitoring using Prometheus, Grafana, and Alertmanager with Ansible automation and EC2 service discovery."
+=======
+# Ansible-Roles-Monitoring-main
+>>>>>>> 2aae6f12a3aaf95c2e3a70150aa3e9ac35527409
